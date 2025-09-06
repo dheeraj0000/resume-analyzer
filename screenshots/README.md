@@ -1,0 +1,1 @@
+Add screenshots of the UI here (upload tab, results view, history table, details modal).
